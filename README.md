@@ -15,4 +15,4 @@ For this project, i full of used React framework.
 #Link:- <a href="https://totality-corp-assignment.herokuapp.com/">OpenSea</a>
 # Link :- https://totality-corp-assignment.herokuapp.com/
 
-<img src=""/>
+<img src="https://github.com/Satya12325/Totality_crope_project/blob/master/screencapture-totality-corp-assignment-herokuapp-2022-03-01-01_45_42.png"/>
