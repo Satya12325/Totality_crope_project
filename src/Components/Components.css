@@ -1,0 +1,77 @@
+.frameImg{
+   
+    /* background-image: url("../Images/Vector9.png"); 
+    height: 320.5px;
+    width: 430px;
+    background-size: cover;
+    margin-left:30px; */
+    
+}
+.Rtext{
+
+width: 145px;
+height: 28px;
+color: blue;
+font-family: Quarto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 28px;
+text-decoration-line: underline;
+margin-left: 50%;
+}
+.Text{
+   
+max-width: 386px;
+height: 56px;
+
+top: 500px;
+
+/* font-family: Eina01-SemiBold;
+font-size: 18px;
+line-height: 28px; */
+/* or 156% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #FFFFFF;
+}
+.text-Creat{
+    font-family: Quarto;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 52px;font-family: Quarto;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 52px;
+color: #263F9B;
+
+}
+.Cards{
+    border: 1px solid;
+    border-image-source: linear-gradient(180deg, #458DEA 0%, rgba(69, 141, 234, 0.17) 100%);
+    
+}
+.CardContainerBox{
+  
+}
+.img-responsive{
+    width: 425px;
+    height: 235px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.56) 0%, rgba(0, 0, 0, 0) 60.85%);
+    
+}
+.several_img{
+ 
+}
+.IconButton{
+    background-image: url("../Images/Vector(1).png");
+    background-size: cover;
+}
+.carousel-control-next-icon , .carousel-control-prev-icon {
+   background-color:#263F9B !important
+}
