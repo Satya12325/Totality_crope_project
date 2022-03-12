@@ -49,10 +49,10 @@ export default function SmallScroll(){
     
     const Scrool = styles.div`
     font-family: sans-serif;
-  display: flex;
-  align-items: center;
-  justify-content: center;
- height:50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:50vh;
 
     `
     

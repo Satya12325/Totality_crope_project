@@ -81,13 +81,12 @@ console.log(offset);
       >
         <Toolbar>
           <Typography
-            style={{
-              fontWeight: "bold",
-              display: "flex",
-              marginTop: "30px",
-              justifyContent: "space-between",
-              width:"100%"
-            }}
+            // style={{
+              
+            //   justifyContent: "space-between",
+            //   width:"100%"
+            // }}
+            className=" w-full justify-between flex mt-1"
           >
             <div style={{ display: "flex" }}>
               <img
